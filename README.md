@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there! 👋
 ## My name is Srishti Sharma 🙋🏻‍♀️
 ### Software Engineer 💻
 > 🌸 Pronouns: She/Her
