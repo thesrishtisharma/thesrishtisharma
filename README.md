@@ -1,6 +1,7 @@
-### Hi there 👋
-## My name is Srishti Sharma
-# Software Engineer
+# Hi there 👋
+## My name is Srishti Sharma ![image](https://github.com/thesrishtisharma/thesrishtisharma/assets/38985008/14fbcded-7039-4e96-b910-b253ec4abc99)
+
+### Software Engineer
 
 I am learning more and more everyday. Currently more focused on learning Spring security.
 I am open for collaborating on any Java based project.
