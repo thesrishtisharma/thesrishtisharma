@@ -3,7 +3,7 @@
 ### Software Engineer 💻
 > 🌸 Pronouns: She/Her
 
-> 🎯 I am learning more and more everyday. Currently more focused on learning Spring security.
+> 🎯 Learning everyday. Currently focused on learning Spring security.
 > 👯 I am open for collaborating on any Java based project.
 
 > ✨ You can get to know me more at [srishtisharma](https://srishtisharma.vercel.app/)
