@@ -3,7 +3,7 @@
 ### Software Engineer 💻
 > 🌸 Pronouns: She/Her
 
-> 🎯 Learning everyday. Currently focused on learning Spring security.
+> 🎯 Learning everyday. Currently focused on learning Spring security
 
 > 👯 Open for collaborating on any Java based project.
 
