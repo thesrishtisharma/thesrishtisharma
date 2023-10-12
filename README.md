@@ -4,7 +4,8 @@
 > 🌸 Pronouns: She/Her
 
 > 🎯 Learning everyday. Currently focused on learning Spring security.
-> 👯 I am open for collaborating on any Java based project.
+
+> 👯 Open for collaborating on any Java based project.
 
 > ✨ You can get to know me more at [srishtisharma](https://srishtisharma.vercel.app/)
 
