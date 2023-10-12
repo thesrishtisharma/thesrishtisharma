@@ -1,12 +1,11 @@
 # Hi there 👋
-## My name is Srishti Sharma ![image](https://github.com/thesrishtisharma/thesrishtisharma/assets/38985008/14fbcded-7039-4e96-b910-b253ec4abc99)
+## My name is Srishti Sharma 🙋🏻‍♀️
+### Software Engineer 💻
 
-### Software Engineer
+- 🎯 I am learning more and more everyday. Currently more focused on learning Spring security.
+- 👯 I am open for collaborating on any Java based project.
 
-I am learning more and more everyday. Currently more focused on learning Spring security.
-I am open for collaborating on any Java based project.
-
-You can get to know more at: [srishtisharma](https://srishtisharma.vercel.app/)
+- ⚡ You can get to know me more at: [srishtisharma](https://srishtisharma.vercel.app/)
 
 <!--
 **thesrishtisharma/thesrishtisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
