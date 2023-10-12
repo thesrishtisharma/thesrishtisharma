@@ -5,7 +5,7 @@
 
 > 🎯 Learning everyday. Currently focused on learning Spring security
 
-> 👯 Open for collaborating on any Java based project.
+> 👯 Open for collaborating on any Java based project
 
 > ✨ You can get to know me more at [srishtisharma](https://srishtisharma.vercel.app/)
 
