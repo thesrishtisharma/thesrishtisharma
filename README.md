@@ -9,7 +9,7 @@
 
 > ✨ You can get to know me more at [srishtisharma](https://srishtisharma.vercel.app/)
 
-> ![](https://komarev.com/ghpvc/?username=your-github-username) 
+> ![](https://komarev.com/ghpvc/?username=thesrishtisharma) 
 
 <!--
 **thesrishtisharma/thesrishtisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
