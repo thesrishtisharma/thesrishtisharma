@@ -9,6 +9,8 @@
 
 > ✨ You can get to know me more at [srishtisharma](https://srishtisharma.vercel.app/)
 
+> 💚 For showing support, please give a star (⭐) to any repository you find useful. 
+
 
 ![](https://komarev.com/ghpvc/?username=thesrishtisharma&style=for-the-badge&color=brightgreen) 
 
