@@ -7,7 +7,7 @@
 
 > 👯 Open for collaborating on any Java based project
 
-> ✨ You can get to know me more at [srishtisharma](https://srishtisharma.vercel.app/)
+> ✨ You can get to know me more at [thesrishtisharma](https://thesrishtisharma.vercel.app/)
 
 > 💚 For showing support, please give a star (⭐) to any repository you find useful. 
 
