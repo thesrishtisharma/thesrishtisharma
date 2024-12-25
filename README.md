@@ -1,6 +1,6 @@
-# Hey there! 👋
-## My name is Srishti Sharma 🙋🏻‍♀️
-### I am a Software Engineer 💻
+# Hey there, I am Srishti 👋
+## I am a Software Engineer 💻
+
 > 🌸 Pronouns: She/Her
 
 > 🎯 Currently working as Java Full Stack developer. Learning & growing everyday.
