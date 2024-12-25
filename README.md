@@ -2,13 +2,10 @@
 ## My name is Srishti Sharma 🙋🏻‍♀️
 ### I am a Software Engineer 💻
 > 🌸 Pronouns: She/Her
-
-> 🎯 Learning everyday. Currently focused on learning Spring security
-
-> 👯 Open for collaborating on any Java based project
-
+> 🎯 Currently working as Java Full Stack developer. Learning & growing everyday.
+> 👯 Open for collaborating on web development projects (JFS)
+> 💭 Ask me about Java, backend, security frameworks, Open APIs specification and web development
 > ✨ You can get to know me more at [thesrishtisharma](https://thesrishtisharma.vercel.app/)
-
 > 💚 For showing support, please give a star (⭐) to any repository you find useful. 
 
 
