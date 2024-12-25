@@ -12,7 +12,8 @@
 > 💚 For showing support, please give a star (⭐) to any repository you find useful. 
 
 
-![](https://komarev.com/ghpvc/?username=thesrishtisharma&style=for-the-badge&color=brightgreen) 
+<!-- Profile view below -->
+<!-- ![](https://komarev.com/ghpvc/?username=thesrishtisharma&style=for-the-badge&color=brightgreen) -->
 
 <!--
 **thesrishtisharma/thesrishtisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
