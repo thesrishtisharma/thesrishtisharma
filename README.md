@@ -3,7 +3,7 @@
 
 > 🌸 Pronouns: She/Her
 
-> 🎯 Currently working as Java Full Stack developer. Learning & growing everyday.
+> 🎯 Currently working as full stack developer. Learning & growing everyday.
 
 > 👯 Open for collaborating on web development projects (JFS)
 
